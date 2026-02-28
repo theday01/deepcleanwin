@@ -1,0 +1,14 @@
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.lock.json
+project.assets.json
+Prerequisites/*.exe
+/Prerequisites/
+
+[Oo]utput/
+/[Oo]utput/
+/[Oo]utput
+all/
